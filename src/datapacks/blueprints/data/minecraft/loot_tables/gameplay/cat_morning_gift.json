@@ -42,7 +42,7 @@
 		{
           "type": "minecraft:loot_table",
 		  "weight": 10,
-          "name": "blueprints:tier1"
+          "name": "blueprints:tiers/1"
         }
       ]
     }

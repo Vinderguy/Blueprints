@@ -26,7 +26,7 @@
           "type": "minecraft:loot_table",
           "weight": 10,
           "quality": 2,
-          "name": "blueprints:blueprints/tier1"
+          "name": "blueprints:blueprints/tiers/1"
         }
       ]
     }
