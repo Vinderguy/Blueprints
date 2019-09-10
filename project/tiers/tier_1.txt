@@ -65,11 +65,6 @@ minecraft:stone_pickaxe
 minecraft:stone_shovel
 minecraft:stone_sword
 minecraft:turtle_helmet
-minecraft:wooden_axe
-minecraft:wooden_hoe
-minecraft:wooden_pickaxe
-minecraft:wooden_shovel
-minecraft:wooden_sword
 minecraft:writable_book
 pressure_plate;minecraft:acacia_pressure_plate;minecraft:birch_pressure_plate;minecraft:dark_oak_pressure_plate;minecraft:jungle_pressure_plate;minecraft:oak_pressure_plate;minecraft:spruce_pressure_plate;minecraft:stone_pressure_plate
 rabbit_stew;minecraft:rabbit_stew_from_brown_mushroom;minecraft:rabbit_stew_from_red_mushroom

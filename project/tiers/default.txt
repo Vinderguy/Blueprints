@@ -192,6 +192,11 @@ minecraft:white_stained_glass
 minecraft:white_stained_glass_pane_from_glass_pane
 minecraft:white_terracotta
 minecraft:white_wool_from_string
+minecraft:wooden_axe
+minecraft:wooden_hoe
+minecraft:wooden_pickaxe
+minecraft:wooden_shovel
+minecraft:wooden_sword
 minecraft:yellow_bed_from_white_bed
 minecraft:yellow_carpet_from_white_carpet
 minecraft:yellow_concrete_powder
