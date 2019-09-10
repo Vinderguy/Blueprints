@@ -1,0 +1,790 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Armor stand\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:armor_stand\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Arrow\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:arrow\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Banner\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:black_banner\",\"minecraft:blue_banner\",\"minecraft:brown_banner\",\"minecraft:cyan_banner\",\"minecraft:gray_banner\",\"minecraft:green_banner\",\"minecraft:light_blue_banner\",\"minecraft:light_gray_banner\",\"minecraft:lime_banner\",\"minecraft:magenta_banner\",\"minecraft:orange_banner\",\"minecraft:pink_banner\",\"minecraft:purple_banner\",\"minecraft:red_banner\",\"minecraft:white_banner\",\"minecraft:yellow_banner\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Bed\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:black_bed\",\"minecraft:blue_bed\",\"minecraft:brown_bed\",\"minecraft:cyan_bed\",\"minecraft:gray_bed\",\"minecraft:green_bed\",\"minecraft:light_blue_bed\",\"minecraft:light_gray_bed\",\"minecraft:lime_bed\",\"minecraft:magenta_bed\",\"minecraft:orange_bed\",\"minecraft:pink_bed\",\"minecraft:purple_bed\",\"minecraft:red_bed\",\"minecraft:white_bed\",\"minecraft:yellow_bed\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Beetroot soup\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:beetroot_soup\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Boat\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:acacia_boat\",\"minecraft:birch_boat\",\"minecraft:dark_oak_boat\",\"minecraft:jungle_boat\",\"minecraft:oak_boat\",\"minecraft:spruce_boat\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Bone meal\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:bone_meal\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Book\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:book\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Bookshelf\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:bookshelf\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Bow\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:bow\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Bread\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:bread\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Bucket\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:bucket\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Button\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:acacia_button\",\"minecraft:birch_button\",\"minecraft:dark_oak_button\",\"minecraft:jungle_button\",\"minecraft:oak_button\",\"minecraft:spruce_button\",\"minecraft:stone_button\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Cake\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:cake\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Carpet\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:black_carpet\",\"minecraft:blue_carpet\",\"minecraft:brown_carpet\",\"minecraft:cyan_carpet\",\"minecraft:gray_carpet\",\"minecraft:green_carpet\",\"minecraft:light_blue_carpet\",\"minecraft:light_gray_carpet\",\"minecraft:lime_carpet\",\"minecraft:magenta_carpet\",\"minecraft:orange_carpet\",\"minecraft:pink_carpet\",\"minecraft:purple_carpet\",\"minecraft:red_carpet\",\"minecraft:white_carpet\",\"minecraft:yellow_carpet\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Carrot on a stick\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:carrot_on_a_stick\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Cartography table\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:cartography_table\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Chest\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:chest\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Clock\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:clock\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Compass\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:compass\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Composter\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:composter\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Cookie\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:cookie\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Dye\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:black_dye\",\"minecraft:black_dye_from_wither_rose\",\"minecraft:blue_dye\",\"minecraft:blue_dye_from_cornflower\",\"minecraft:brown_dye\",\"minecraft:cyan_dye\",\"minecraft:gray_dye\",\"minecraft:light_blue_dye_from_blue_orchid\",\"minecraft:light_blue_dye_from_blue_white_dye\",\"minecraft:light_gray_dye_from_azure_bluet\",\"minecraft:light_gray_dye_from_black_white_dye\",\"minecraft:light_gray_dye_from_gray_white_dye\",\"minecraft:light_gray_dye_from_oxeye_daisy\",\"minecraft:light_gray_dye_from_white_tulip\",\"minecraft:lime_dye\",\"minecraft:magenta_dye_from_allium\",\"minecraft:magenta_dye_from_blue_red_pink\",\"minecraft:magenta_dye_from_blue_red_white_dye\",\"minecraft:magenta_dye_from_lilac\",\"minecraft:magenta_dye_from_purple_and_pink\",\"minecraft:orange_dye_from_orange_tulip\",\"minecraft:orange_dye_from_red_yellow\",\"minecraft:pink_dye_from_peony\",\"minecraft:pink_dye_from_pink_tulip\",\"minecraft:pink_dye_from_red_white_dye\",\"minecraft:purple_dye\",\"minecraft:red_dye_from_beetroot\",\"minecraft:red_dye_from_poppy\",\"minecraft:red_dye_from_rose_bush\",\"minecraft:red_dye_from_tulip\",\"minecraft:white_dye\",\"minecraft:white_dye_from_lily_of_the_valley\",\"minecraft:yellow_dye_from_dandelion\",\"minecraft:yellow_dye_from_sunflower\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"End rod\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:end_rod\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Fence\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:acacia_fence\",\"minecraft:birch_fence\",\"minecraft:dark_oak_fence\",\"minecraft:jungle_fence\",\"minecraft:nether_brick_fence\",\"minecraft:oak_fence\",\"minecraft:spruce_fence\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Fence gate\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:acacia_fence_gate\",\"minecraft:birch_fence_gate\",\"minecraft:dark_oak_fence_gate\",\"minecraft:jungle_fence_gate\",\"minecraft:oak_fence_gate\",\"minecraft:spruce_fence_gate\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Fishing rod\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:fishing_rod\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Fletching table\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:fletching_table\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Flint and steel\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:flint_and_steel\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Flower pot\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:flower_pot\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Furnace\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:furnace\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Glass bottle\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:glass_bottle\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Glass pane\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:black_stained_glass_pane\",\"minecraft:blue_stained_glass_pane\",\"minecraft:brown_stained_glass_pane\",\"minecraft:cyan_stained_glass_pane\",\"minecraft:glass_pane\",\"minecraft:gray_stained_glass_pane\",\"minecraft:green_stained_glass_pane\",\"minecraft:light_blue_stained_glass_pane\",\"minecraft:light_gray_stained_glass_pane\",\"minecraft:lime_stained_glass_pane\",\"minecraft:magenta_stained_glass_pane\",\"minecraft:orange_stained_glass_pane\",\"minecraft:pink_stained_glass_pane\",\"minecraft:purple_stained_glass_pane\",\"minecraft:red_stained_glass_pane\",\"minecraft:white_stained_glass_pane\",\"minecraft:yellow_stained_glass_pane\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Golden axe\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:golden_axe\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Golden boots\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:golden_boots\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Golden carrot\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:golden_carrot\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Golden chestplate\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:golden_chestplate\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Golden helmet\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:golden_helmet\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Golden hoe\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:golden_hoe\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Golden leggings\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:golden_leggings\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Golden pickaxe\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:golden_pickaxe\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Golden shovel\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:golden_shovel\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Golden sword\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:golden_sword\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Jack o lantern\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:jack_o_lantern\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Jukebox\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:jukebox\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Ladder\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:ladder\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Lantern\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:lantern\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Lectern\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:lectern\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Lever\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:lever\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Loom\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:loom\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Magma cream\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:magma_cream\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Map\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:map\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Minecart\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:minecart\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Mushroom stew\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:mushroom_stew\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Note block\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:note_block\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Painting\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:painting\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Pressure plate\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:acacia_pressure_plate\",\"minecraft:birch_pressure_plate\",\"minecraft:dark_oak_pressure_plate\",\"minecraft:jungle_pressure_plate\",\"minecraft:oak_pressure_plate\",\"minecraft:spruce_pressure_plate\",\"minecraft:stone_pressure_plate\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Rabbit stew\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:rabbit_stew_from_brown_mushroom\",\"minecraft:rabbit_stew_from_red_mushroom\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Rail\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:rail\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Redstone torch\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:redstone_torch\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Repeater\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:repeater\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Shears\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:shears\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Sign\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:acacia_sign\",\"minecraft:birch_sign\",\"minecraft:dark_oak_sign\",\"minecraft:jungle_sign\",\"minecraft:oak_sign\",\"minecraft:spruce_sign\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Smithing table\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:smithing_table\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Stone axe\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:stone_axe\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Stone hoe\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:stone_hoe\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Stone pickaxe\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:stone_pickaxe\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Stone shovel\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:stone_shovel\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Stone sword\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:stone_sword\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Trapdoor\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:acacia_trapdoor\",\"minecraft:birch_trapdoor\",\"minecraft:dark_oak_trapdoor\",\"minecraft:jungle_trapdoor\",\"minecraft:oak_trapdoor\",\"minecraft:spruce_trapdoor\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Turtle helmet\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:turtle_helmet\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Wood door\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:acacia_door\",\"minecraft:birch_door\",\"minecraft:dark_oak_door\",\"minecraft:jungle_door\",\"minecraft:oak_door\",\"minecraft:spruce_door\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Wooden axe\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:wooden_axe\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Wooden hoe\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:wooden_hoe\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Wooden pickaxe\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:wooden_pickaxe\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Wooden shovel\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:wooden_shovel\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Wooden sword\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:wooden_sword\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Writable book\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:writable_book\"]}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

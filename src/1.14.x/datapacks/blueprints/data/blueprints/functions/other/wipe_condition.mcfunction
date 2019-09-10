@@ -1,1 +1,0 @@
-execute if score 75t9fc56AzvfUFwa 5PZqcA8UWJ9X9z9L matches 1 run function blueprints:wipe/execute

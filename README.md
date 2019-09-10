@@ -37,7 +37,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Blueprints mod uses knowledge books added in 1.12 to make Minecraft more exciting and challenging. How does it work? You can't craft item if you don't have unlocked recipe for it. How do I unlock recipes? You can find different tiers of blueprints (knowledge books) in different locations. It forces you to explore the map instead of spending hours mining in caves. When connected with Minecraft's hardcore mode it gets more interesting. Using it on a multiplayer fractions server make the gameplay an unforgettable experience.
+Blueprints mod uses knowledge books added in 1.12 to make Minecraft more exciting and challenging. How does it work? You can't craft item if you don't have unlocked recipe for it. How do I unlock recipes? You can find different tiers of blueprints (knowledge books) in different locations. When connected with Minecraft's hardcore mode it gets more interesting. Using it on a multiplayer fractions server make the gameplay an unforgettable experience.
 
 
 
@@ -48,18 +48,16 @@ Follow these steps to get Blueprints in your Minecraft world:
 
 1. [Download](https://github.com/Vinderguy/Blueprints/releases/tag/v0.6) the latest Blueprints relase for the Minecraft version you use.
 2. Extract downloaded archive.
-3. Select game version from available.
-4. Copy `blueprints` folder from `datapacks` to your Minecraft world save datapacks directory:\
+3. Copy `blueprints` folder from `datapacks` to your Minecraft world save datapacks directory:\
 `
 %appdata%\.minecraft\saves\[YOUR WORLD NAME]\datapacks
 `
-5. Copy `blueprints` folder from `resourcepacks` to your Minecraft resourcepacks directory:\
+4. Copy `blueprints` folder from `resourcepacks` to your Minecraft resourcepacks directory:\
 `
 %appdata%\.minecraft\resourcepacks
 `
-6. Turn on Blueprints resourcepack in game settings.
-7. Rejoin world or open chat and type: `/reload`
-8. GL&HF!
+5. Turn on Blueprints resourcepack in game settings.
+6. Rejoin world or open chat and type: `/reload`
 
 
 
