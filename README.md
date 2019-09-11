@@ -8,7 +8,7 @@
   <h3 align="center">Blueprints</h3>
 
   <p align="center">
-    Enhance your gameplay by adding the requirement to unlock item recipe before crafting it.
+    Rust-game based blueprints system.
     <br />
     <a href="https://github.com/Vinderguy/Blueprints/wiki"><strong>Explore the docs »</strong></a>
     <br />
@@ -37,7 +37,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Blueprints mod uses knowledge books added in 1.12 to make Minecraft more exciting and challenging. How does it work? You can't craft item if you don't have unlocked recipe for it. How do I unlock recipes? You can find different tiers of blueprints (knowledge books) in different locations. When conn
+Blueprints datapack combine the use of `doLimitedCrafting` gamerule and knowledge book item. You start the game with only a few blueprints (recipes) unlocked and you can't craft anything else unless you find a blueprint for it. Blueprints (knowledge books) can be obtained in various ways at various places (see [How To Play](#how-to-play) section). Found ones can be learned by right-clicking while holding them. Learned blueprints last forever and allow you to craft item that you have learned blueprint for.
 
 
 
@@ -46,9 +46,9 @@ Blueprints mod uses knowledge books added in 1.12 to make Minecraft more excitin
 
 Follow these steps to get Blueprints in your Minecraft world:
 
-1. [Download](https://github.com/Vinderguy/Blueprints/releases/tag/v0.6) the latest Blueprints relase for the Minecraft version you use.
+1. [Download](https://github.com/Vinderguy/Blueprints/releases/tag/v1.1) the latest Blueprints release for the Minecraft version you use.
 2. Extract downloaded archive.
-3. Copy `blueprints` folder from `datapacks` to your Minecraft world save datapacks directory:\
+3. Copy `blueprints` folder from `datapacks` to your Minecraft world's datapacks directory:\
 `
 %appdata%\.minecraft\saves\[YOUR WORLD NAME]\datapacks
 `
@@ -64,12 +64,14 @@ Follow these steps to get Blueprints in your Minecraft world:
 <!-- HOW TO PLAY -->
 ## How To Play
 
-1. You can't craft items that you've not unlocked first.
+1. You start the game with only several common blueprints unlocked. You can't craft anything else.
 
 ![](https://github.com/Vinderguy/Blueprints/blob/master/resources/screenshots/sample_step1.png)
 
 
-2. **Tier 1** (green) blueprints can be found inside villages, abounded mineshafts, small dungeons, shipwrecks & underwater ruins. **Tier 2** (blue) blueprints can be found inside temples, igloos, pillager outposts, woodland mansions, nether fortresses, buried treasures & strongholds. **Tier 3** (red) blueprints can be found only in the end.
+2. There are 3 tiers of blueprints: Tier 1 (green), Tier 2 (blue), Tier 3 (red). Tier 1 is the most most common tier and can be found almost everywhere, while the rarest Tier 3 blueprints can be found only in the end. Each tier has its set of items (see [documentation](https://github.com/Vinderguy/Blueprints/wiki) for more details).
+
+**IMPORTANT** : While the diamond pickaxe is tier 3 item you an still build nether portal using buckets.
 
 ![](https://github.com/Vinderguy/Blueprints/blob/master/resources/screenshots/sample_step2.png)
 
