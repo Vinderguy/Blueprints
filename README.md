@@ -56,7 +56,7 @@ Follow these steps to get Blueprints in your Minecraft world:
 `
 %appdata%\.minecraft\resourcepacks
 `
-5. Turn on Blueprints resourcepack in game settings.
+5. Enable Blueprints resourcepack in game settings.
 6. Rejoin world or open chat and type: `/reload`
 
 
@@ -66,24 +66,33 @@ Follow these steps to get Blueprints in your Minecraft world:
 
 1. You start the game with only several common blueprints unlocked. You can't craft anything else.
 
+
 ![](https://github.com/Vinderguy/Blueprints/blob/master/resources/screenshots/sample_step1.png)
 
 
-2. There are 3 tiers of blueprints: Tier 1 (green), Tier 2 (blue), Tier 3 (red). Tier 1 is the most most common tier and can be found almost everywhere, while the rarest Tier 3 blueprints can be found only in the end. Each tier has its set of items (see [documentation](https://github.com/Vinderguy/Blueprints/wiki) for more details).
 
-**IMPORTANT** : While the diamond pickaxe is tier 3 item you an still build nether portal using buckets.
+2. There are 3 tiers of blueprints: Tier 1 (green), Tier 2 (blue), Tier 3 (red). Tier 1 is the most most common tier and can be found almost everywhere, while the rarest Tier 3 blueprints can be found only in the end. Each tier has its set of items (see [documentation](https://github.com/Vinderguy/Blueprints/wiki) for more details).
+**IMPORTANT** : While the diamond pickaxe is a tier 3 item you can still build a nether portal using buckets.
+
 
 ![](https://github.com/Vinderguy/Blueprints/blob/master/resources/screenshots/sample_step2.png)
 
 
-3. Right-click blueprints to unlock them.
+
+3. Right-click blueprints to learn them.
+
 
 ![](https://github.com/Vinderguy/Blueprints/blob/master/resources/screenshots/sample_step3.png)
 
 
-4. If you have unlocked an item, you can craft it.
+
+4. After you unlock an item, you can craft it.
+
 
 ![](https://github.com/Vinderguy/Blueprints/blob/master/resources/screenshots/sample_step4.png)
+
+
+
 
 _For more examples, please refer to the [Documentation](https://github.com/Vinderguy/Blueprints/wiki)_
 
