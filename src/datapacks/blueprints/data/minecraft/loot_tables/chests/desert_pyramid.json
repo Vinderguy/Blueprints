@@ -4,13 +4,26 @@
     {
       "rolls": {
         "min": 1.0,
-        "max": 2.0,
+        "max": 3.0,
         "type": "minecraft:uniform"
       },
       "entries": [
         {
           "type": "minecraft:loot_table",
           "name": "blueprints:tiers/2"
+        }
+      ]
+    },
+	{
+      "rolls": {
+        "min": 1.0,
+        "max": 3.0,
+        "type": "minecraft:uniform"
+      },
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "blueprints:tiers/1"
         }
       ]
     },
