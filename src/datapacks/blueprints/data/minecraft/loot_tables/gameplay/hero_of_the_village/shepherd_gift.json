@@ -70,7 +70,7 @@
         },
 		{
           "type": "minecraft:loot_table",
-          "name": "blueprints:tier1"
+          "name": "blueprints:tier/1"
         }
       ]
     }
