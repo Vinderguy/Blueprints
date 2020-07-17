@@ -1,22 +1,19 @@
 {
-  "type": "minecraft:gift",
-  "pools": [
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:cod"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:salmon"
-        },
-		{
-          "type": "minecraft:loot_table",
-          "name": "blueprints:tier/1"
-        }
-      ]
-    }
-  ]
+    "type": "minecraft:gift",
+    "pools": [{
+        "rolls": 1,
+        "entries": [{
+                "type": "minecraft:item",
+                "name": "minecraft:cod"
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:salmon"
+            },
+            {
+                "type": "minecraft:loot_table",
+                "name": "blueprints:tiers/1"
+            }
+        ]
+    }]
 }

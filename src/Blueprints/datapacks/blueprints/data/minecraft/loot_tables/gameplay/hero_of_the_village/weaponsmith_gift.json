@@ -1,26 +1,23 @@
 {
-  "type": "minecraft:gift",
-  "pools": [
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:stone_axe"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:golden_axe"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:iron_axe"
-        },
-		{
-          "type": "minecraft:loot_table",
-          "name": "blueprints:tier/1"
-        }
-      ]
-    }
-  ]
+    "type": "minecraft:gift",
+    "pools": [{
+        "rolls": 1,
+        "entries": [{
+                "type": "minecraft:item",
+                "name": "minecraft:stone_axe"
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:golden_axe"
+            },
+            {
+                "type": "minecraft:item",
+                "name": "minecraft:iron_axe"
+            },
+            {
+                "type": "minecraft:loot_table",
+                "name": "blueprints:tiers/1"
+            }
+        ]
+    }]
 }
